@@ -1,4 +1,4 @@
-# -SQL-GDP-Analysis
+# SQL-GDP-Analysis
 ________________________________________
 🎯 Project Goal
 The purpose of this project is to demonstrate practical SQL skills in analyzing macroeconomic data — specifically, GDP per capita by country and continent.
